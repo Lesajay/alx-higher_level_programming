@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-
 def list_division(my_list_1, my_list_2, list_length):
     """
     takes two lists and creates a new list with result of divison
@@ -23,4 +22,4 @@ def list_division(my_list_1, my_list_2, list_length):
             print("out of range")
         finally:
             new_list.append(result)
-    return 
+    return new_list
