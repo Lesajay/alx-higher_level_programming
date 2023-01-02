@@ -1,14 +1,15 @@
-#!/usr/bin/pyhton3
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-an empty class Rectangle that defines a reactangle
+a class that difines rectangle
 """
 
 
 class Rectangle:
-    """Empty class Square that defines a square
+    """Empty class Rectangle that defines a rectangle figure
+
     Attributes:
         empty
-   """
+    """
 
     pass
